@@ -1,4 +1,4 @@
-# Amazon book bestsellers anlysis
+# Amazon book bestsellers analysis
 
 
 Here we show to you our analysis project
